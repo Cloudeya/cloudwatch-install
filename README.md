@@ -26,4 +26,4 @@ The script is published under [BSD 3-Clause License](license.txt).
 
 ## Copyright
 
-(c) 2018 [Cloudeya Limited](https://www.cloudeya.co.uk).
+(c) 2018 [Cloudeya Limited](https://www.cloudeya.ml).

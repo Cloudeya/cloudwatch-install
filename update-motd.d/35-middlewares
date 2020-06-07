@@ -17,6 +17,6 @@ cat << EOF
 
  Nginx ${nginx_ver}, PHP ${php_ver}, Percona MySQL ${mysql_ver}${wpcli_ver}
 
- OCTOPODAMI® https://www.cloudeya.co.uk/
+ OCTOPODAMI® https://www.cloudeya.ml/
 
 EOF
